@@ -11,3 +11,7 @@ The dashboard integrates data from multiple sources, including:
 * Open the Excel file containing the dashboard.
 * Enable macros and data connections if prompted.
 * Explore the dashboard and interact with the visualizations and filters to gain insights into Netflix's data.
+
+  ## Screenshots
+  ![image](https://github.com/Bayabonga/Netflix-Excel-Dashboard/assets/73765784/a1bc85c0-8024-4165-820c-7545ee7c06ca)
+
