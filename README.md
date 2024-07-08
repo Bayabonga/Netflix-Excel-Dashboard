@@ -1,7 +1,7 @@
 # Netflix Excel Dashboard
 This repository contains an Excel dashboard for analyzing Netflix's content library.
 ## Features
-###Data Sources: 
+### Data Sources: 
 The dashboard integrates data from multiple sources, including:
 *Netflix dataset containing information about movies and TV shows
 *User data including ratings and rating Levels
