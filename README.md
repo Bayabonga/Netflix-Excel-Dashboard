@@ -1,4 +1,5 @@
-##Getting Started
+# Netflix Excel Dashboard
+## Getting Started
 To use the Netflix Excel dashboard, follow these steps:
 Clone the repository to your local machine.
 Open the Excel file containing the dashboard.
